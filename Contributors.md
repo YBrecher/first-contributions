@@ -434,6 +434,7 @@ Jeremiah Harkins
 - se7enmoons
 - Ismail Kassim
 - Kate Fogg
+- Yaakov Brecher (https://github.com/YBrecher)
 - Yusuf Reed
 - My Name
 - po10tial
